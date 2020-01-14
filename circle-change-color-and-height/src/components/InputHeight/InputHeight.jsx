@@ -2,9 +2,6 @@ import React from 'react';
 
 import s from './InputHeight.module.css';
 
-
-
-
 function InputHeight() {
   return (
     <div >
