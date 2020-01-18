@@ -6,8 +6,7 @@ function InputHeight() {
   return (
     <div >
 
-        <input type="text" placeholder="height" />
-
+        <input type="text" placeholder="height" value=''/>
 
     </div>
   );
